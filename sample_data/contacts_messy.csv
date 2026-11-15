@@ -1,0 +1,7 @@
+name,email,city
+ Alice Smith , alice@example.com , Cairo
+Bob Jones,bob@example.com,Giza
+Alice Smith,alice@example.com,Cairo
+  ,  ,
+Mona Hassan,mona@example.com,Alexandria
+Omar Ali,,Cairo
